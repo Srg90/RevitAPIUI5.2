@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining1\RevitAPIUI2.dll"</Assembly>
+		<AddInId>ED903829-09DB-4340-B214-AAB52CB0787E</AddInId>
+		<FullClassName>RevitAPIUI2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Задание 5.2 (выбор типа стен)</Text>
+	</AddIn>
+</RevitAddIns>
